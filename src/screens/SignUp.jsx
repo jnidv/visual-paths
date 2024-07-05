@@ -6,7 +6,7 @@ function SignUp() {
         <>
             <div className="sign-up-box">
                 <p className="sign-up-label">SIGN UP</p>
-                <div className="input-fields-container">
+                <div className="sign-up-input-fields-container">
                     <input
                         className="first-name-input"
                         type="text"

@@ -19,7 +19,7 @@
     margin-bottom: 30px;
 }
 
-.input-fields-container {
+.sign-up-input-fields-container {
     width: 100%;
     display: flex;
     align-items: center;
@@ -27,7 +27,7 @@
     flex-direction: column;
 }
 
-.input-fields-container input {
+.sign-up-input-fields-container input {
     width: 80%;
     height: 50px;
     margin-top: 20px;
