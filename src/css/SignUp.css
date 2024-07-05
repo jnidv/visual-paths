@@ -1,39 +1,40 @@
 .sign-up-box {
     background-color: #150A30;
-    width: 650px;
-    height: 950px;
+    width: 450px;
+    height: 580px;
     margin: auto;
-    margin-top: 2.5%;
-    border-radius: 50px;
+    margin-top: 25px;
+    border-radius: 30px;
     display: flex;
     align-items: center;
     flex-direction: column;
-    padding: 0;
+    padding: 40px;
 }
 
 .sign-up-label {
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
     color: white;
-    margin-top: 70px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .sign-up-input-fields-container {
-    width: 100%;
+    width: 450px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    margin: 0 0 20px 0;
 }
 
 .sign-up-input-fields-container input {
-    width: 80%;
-    height: 50px;
+    width: 430px;
+    height: 20px;
     margin-top: 20px;
-    font-size: 20px;
+    font-size: 15px;
     color: white;
     background-color: #150A30;
+    padding: 10px;
     border: solid 0px;
     border-bottom: solid 2px white;
 }
@@ -49,16 +50,16 @@ input:focus {
 .sign-up-button {
     background-color: #A552B6;
     color: white;
-    width: 150px;
-    height: 65px;
-    border-radius: 15px;
-    font-size: 25px;
-    margin-top: 60px;
+    width: 110px;
+    border-radius: 13px;
+    padding: 13px;
+    font-size: 17px;
+    margin: 10px 0 30px 0;
 }
 
-.question {
-    margin-top: 100px;
-    font-size: 15px;
+.sign-in-question {
+    margin: 15px 0 5px 0;
+    font-size: 12px;
     color: #DBDBDB;
 }
 
@@ -67,6 +68,6 @@ input:focus {
     background: none;
     border: none;
     font-weight: bold;
-    font-size: 20px;
-    margin-top: 10px;
+    font-size: 15px;
+    margin-top: 5px;
 }

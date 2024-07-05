@@ -37,10 +37,10 @@ function SignUp() {
                         type="password"
                         placeholder="Repeat password"
                     ></input>
-                    <button className="sign-up-button">Sign Up</button>
-                    <p className="question">Already have an account?</p>
-                    <button className="sign-in">SIGN IN</button>
                 </div>
+                <button className="sign-up-button">Sign Up</button>
+                <p className="sign-in-question">Already have an account?</p>
+                <button className="sign-in">SIGN IN</button>
             </div>
         </>
     );
