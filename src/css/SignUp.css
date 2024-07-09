@@ -55,6 +55,7 @@ input:focus {
     padding: 13px;
     font-size: 17px;
     margin: 10px 0 30px 0;
+    border: 0px;
 }
 
 .sign-in-question {
