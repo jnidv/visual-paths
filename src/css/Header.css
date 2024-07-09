@@ -1,0 +1,27 @@
+.header {
+    background-color: #150A30;
+    height: 60px;
+    padding: 20px;
+    display: flex;
+}
+
+.navigation-buttons {
+    display: flex;
+    color: white;
+    align-items: center;
+    height: 50px;
+}
+
+.navigation-buttons > * {
+    margin: 30px;
+}
+
+.navigation-buttons p {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.logo-button {
+    height: 50px;
+    margin: 30px 30px 30px 0;
+}
